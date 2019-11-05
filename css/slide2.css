@@ -1,0 +1,80 @@
+.shade
+{
+	z-index:1000;
+	width:100%;
+	height:200%;
+	opacity:0.4;
+	display:none;
+	background:black;
+	position:absolute;
+}
+#list
+{
+z-index:10001;
+}
+.slide-div
+{
+	z-index:1001;
+	position:fixed;
+	background:white;
+	margin:auto;
+	top:60px;
+	left:40%;
+	width:35%;
+	box-shadow: 3px 3px 5px 5px;
+	border-radius: 15px;
+	border:5px solid black;
+}
+.slide-div form
+{
+	margin:auto;
+	margin-top:50px;
+	z-index:10001;
+	margin-left:15px;
+}
+.close
+{	
+	text-align:right;
+	z-index:10000;
+	margin-top:3px;
+	margin-right:2px;
+	opacity:1;
+}
+.controls a
+{text-decoration:none
+}
+
+#list
+{
+z-index:10001;
+}
+.slide-div1
+{
+	z-index:1001;
+	position:fixed;
+	background:white;
+	margin:auto;
+	top:60px;
+	left:40%;
+	width:35%;
+	box-shadow: 3px 3px 5px 5px;
+	border-radius: 15px;
+	border:5px solid black;
+}
+.shade1
+{
+	z-index:1000;
+	width:100%;
+	height:200%;
+	opacity:0.4;
+	display:none;
+	background:black;
+	position:absolute;
+}
+.slide-div1 form
+{
+	margin:auto;
+	margin-top:50px;
+	z-index:10001;
+	margin-left:15px;
+}

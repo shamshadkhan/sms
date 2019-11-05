@@ -1,0 +1,186 @@
+@media print
+{
+
+	.print_top
+	{
+		!min-height: 800px;
+		
+	}
+	.widget
+	{
+		margin-top:-50px;
+
+	}
+	.panel-heading
+	{
+		display:none;
+	}
+	#header
+	{
+		display: none;
+	}
+	#sidebarmenu
+	{
+		display: none;
+	}
+	.crumb
+	{
+		display: none;
+	}
+	.panel-body
+	{
+		border:none;
+	}
+	#heading
+	{
+		display: none;
+	}
+	.btn
+	{
+		display:none;
+	}
+	.less
+	{
+		width:630px;
+	}
+	#wid-less
+	{
+		width:300px;
+	}
+	.attach
+	{
+		display: none;
+	}
+	#sig-can
+	{
+		!margin-left:900px;
+		float: right;
+	}
+	#recieved,#interview,#by
+	{
+		width:190px;
+	}
+	#placement
+	{
+		width:300px;
+	}
+	.sig-gm
+	{
+		float: right;
+		margin-right: 0px;
+	}
+	#ref-top
+	{
+		margin-top:20px;
+	}
+	#photo
+	{
+		width: 14%;
+		height: 140px;
+		margin-top: -190px;
+	}
+	#photo img
+	{
+		height: 140px;
+		width: 96%;
+		margin-left: 2px;
+	}
+	.ref-pre
+	{
+		margin-top: -20px;
+	}
+	.dataTable 
+	{
+		width: 100%;
+	}
+	.th-h4
+	{
+		background-color: #e8e8e8 !important;
+        -webkit-print-color-adjust: exact; 
+	}
+	.right-img
+	{
+		float: right;
+		padding-left: 24px;
+		width:13.7%;
+	}
+	.center-head
+	{
+		color: #4B0082;
+	}
+	.center-head .marine
+	{
+		font-family: Sylfaen;
+		margin-top: 10px;
+		font-size: 23px;
+		font-weight: 900;
+		color: #4B0082;
+	}
+	.center-head .seafar
+	{
+		margin-left: -41px;
+		font-family: Sylfaen;
+		font-size: 21px;
+		margin-top:-8px;
+		font-weight: 900;
+		color: #4B0082;
+	}
+	.center-head .mlc
+	{
+		font-size: 10px;
+		font-family: Arial;
+		color:orange;
+		font-weight: bold;
+		font-style: italic;
+		margin-left: -30px;
+		margin-top:-9px;
+	}
+	.wid-record
+	{
+		width:100%;
+	}
+	#lower-half h5
+	{
+		font-size: 12px;
+		color: #4B0082;
+		margin-top: -13px;
+		font-family: Trebuchet MS;
+	}
+	#lower-half p
+	{
+		font-size: 12px;
+		color: #4B0082;
+		margin-top: -10px;
+		font-family: Trebuchet MS;
+	}
+	.left-img img
+	{
+		width: 100px;
+		height: 68px;
+		margin-top: 1px;
+	}
+	.right-img img
+	{
+		margin-top: 1px;
+	}
+	.head-title
+	{
+		background-color: gray;
+	}
+	.validity
+	{
+		background-color: #fff;
+	}
+	.tab-ref
+	{
+		font-family: Calibri;
+		font-size: 18px;
+		font-style: italic;
+		font-weight: bold;
+	}
+	.margin-by
+	{
+		margin-left: 35%;
+		margin-top: -41px;
+	}
+}

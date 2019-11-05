@@ -1,0 +1,207 @@
+.personal-table 
+{
+	width: 79%;
+	height: 100px;
+	border-bottom: none;
+	font-size: 11px;
+	font-family: Calibri;
+	color: #000;
+	text-align: left;
+}
+.personal-table td
+{
+	border: 1px solid #000;
+	padding-left: 5px;
+	border-bottom: none;
+}
+#photo
+{
+	float: right;
+	width: 21%;
+	height: 153px;
+	margin-top: -195px;
+}
+#photo img
+{
+	height: 148px;
+margin-top: 46px;
+}
+#photo p
+{
+	margin-top: 55%;
+	margin-left: 5px;
+}
+
+.personal-table-1 
+{
+	width: 100%;
+	border-top: none;
+	font-size: 11px;
+	font-family: Calibri;
+	color: #000;
+	text-align: left;
+}
+
+.personal-table-1 td,.font-table td,.font-table th,.font-table-1 td,.font-table-1 th
+{
+	border: 1px solid #000;
+	padding-left: 5px;
+}
+.font-table-1 td,.font-table td,.personal-table-1 td
+{
+	border-bottom: none;
+}
+.font-table
+{
+	font-size: 11px;
+	font-family: calibri;
+	color: #000;
+	width: 100%;
+	text-align: left;
+}
+.font-table-1
+{
+	font-size: 11px;
+	font-family: calibri;
+	color: #000;
+	width: 100%;
+	text-align: left;
+}
+#tel-td
+{
+	width: 15%;
+}
+.left-img
+{
+	margin-top: -10px;
+	margin-left: 0px;
+	float: left;
+	width: 11.8%;
+	height: 62px;
+}
+.left-img img
+{
+	width: 83px;
+	height: 62px;
+}
+.center-head
+{
+	!margin-left:35%; 
+	/*padding-left: 151px;*/
+	width:100%;
+	color: indigo;
+}
+.center-head-img img
+{
+	!margin-left:40%; 
+	/*padding-left: 151px;*/
+	color: indigo;
+}
+
+.center-head .marine
+{
+	font-family: Sylfaen;
+	margin-top: 10px;
+	font-size: 22px;
+	font-weight: 900;
+	text-align:center;
+}
+.center-head .seafar
+{
+	!margin-left: -41px;
+	font-family: Sylfaen;
+	text-align:center;
+	font-size: 20px;
+	margin-top:-8px;
+	font-weight: 900;
+}
+.center-head .mlc
+{
+	font-size: 10px;
+	font-family: Arial;
+	color:orange;
+	font-weight: bold;
+	font-style: italic;
+	text-align: center;
+	margin-left: -30px;
+	margin-top:-9px;
+}
+#lower-half
+{
+	font-family: Trebuchet MS;
+	color: indigo;
+}
+#lower-half h5
+{
+	font-size: 12px;
+	margin-top: -13px;
+	font-family: Trebuchet MS;
+}
+#lower-half p
+{
+	font-size: 14px;
+	text-align: center;
+	margin-left: 5px;
+	margin-top: -4px;
+	font-family: Trebuchet MS;
+}
+.right-img
+{
+	float: right;
+	margin-top: -10px;
+	margin-right: -4px;
+	width: 13.7%;
+}
+.right-img img
+{
+	width:97px;
+	height: 65px;
+}
+.wid-record
+{
+	width:735px;
+}
+.th-h4
+{
+-webkit-box-shadow: inset 0px 1px 0px 0px rgba(255, 255, 255, 1), 0px 1px 0px 0px rgba(255, 255, 255, 1);
+box-shadow: inset 0px 1px 0px 0px rgba(255, 255, 255, 1), 0px 1px 0px 0px rgba(255, 255, 255, 1);
+height:28px;
+border:1px solid #000;
+border-top-right-radius: 1px;
+/*color: #686866;*/
+color: #302226;
+text-align: center;
+padding-top: 3px;
+font-family: calibri;
+font-size: 19px;
+background: url('../images/patterns/furley_bg2.png') repeat-x;
+background-color: #e8e8e8;
+margin-bottom: -1px;
+}
+.float-div
+{
+	float: left;
+	width: 48%;
+}
+.clear
+{
+	clear: both;
+}
+.tab-ref
+{
+	font-family: Calibri;
+	font-size: 18px;
+	font-style: italic;
+	font-weight: bold;
+}
+.margin-by
+{
+	margin-top: -41px;margin-left: 30%;
+}
+.sig-gm
+{
+	width: 36%;
+	float: right;
+	margin-right: 5%;
+	margin-top: -60px;
+}
