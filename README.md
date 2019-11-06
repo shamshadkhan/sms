@@ -1,6 +1,6 @@
 # sms
 
-Description: Its a wireframe for School Managment System Done in PHP, HTML, CSS,
+Description: Its a wireframe for School Managment System Done in PHP, HTML, CSS. Itshas 4 main panel Student, Teacher, Admin and Library
 
 Procedure:
 1. Make sure the xampp is installed
