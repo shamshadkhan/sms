@@ -10,7 +10,7 @@
                     </form>
                 </li>
                 <li class="divider"></li>
-                <li class="active"><a href="dashboard.php"><i class="fa fa-home"></i> <span>Dashboard</span></a></li>
+                <li class="active"><a href="index.php"><i class="fa fa-home"></i> <span>Dashboard</span></a></li>
                 <li class="hasChild"><a href="javascript:;"><i class="fa fa-th"></i> <span>Student Managment</span> </a>
                     <ul class="acc-menu">
                         <li><a href="profile.php"><span>Profile</span></a></li>
